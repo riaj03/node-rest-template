@@ -1,4 +1,4 @@
-npm install**.
+**$ npm install**.
 
 ## Config db 
 Now create database and add database credentials in database/index.js.
